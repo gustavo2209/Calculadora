@@ -39,7 +39,7 @@ namespace app
             }
             catch(FormatException ex)
             {
-                MessageBox.Show("Valor 2 incorrecto");
+                MessageBox.Show("Valor 2 incorrecto"); 
                 return;
             }
 
